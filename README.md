@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/s-min.png" width="128" height="128"/>
   
-# shopee-flashsell-imacros
+# Bot Shopee Flash Sale Menggunakan iMacross
 
 >Bot Shopee Flash Sell menggunakan iMacros.
 >
   
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nur_ikmal19?label=Follow%20%40nur_ikmal19%20for%20updates&logo=twitter&style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/egisutedi?label=Follow%20%40egisutedi%20for%20updates&logo=twitter&style=social">
 </div>
 
 ## Install iMacros di Browser
