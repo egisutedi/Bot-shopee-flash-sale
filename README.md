@@ -3,7 +3,7 @@
   
 # Bot Shopee Flash Sale Menggunakan iMacross
 
->Bot Shopee Flash Sell menggunakan iMacros.
+>Bot Shopee Flash Sale menggunakan iMacros by egisutedi
 >
   
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/egisutedi?label=Follow%20%40egisutedi%20for%20updates&logo=twitter&style=social">
