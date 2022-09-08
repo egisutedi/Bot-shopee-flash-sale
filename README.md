@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/s-min.png" width="128" height="128"/>
+<img src="https://github.com/egisutedi/Bot-shopee-flash-sale/blob/6c0ad52b47a609574f5d131a257befc39a9b7ebb/fs%20logo.jpg"/>
   
 # Bot Shopee Flash Sale Menggunakan iMacross
 
